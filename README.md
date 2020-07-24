@@ -1,14 +1,31 @@
-# NeuroFlow_Mood
-# clone the project down
+# What is this?
 
-# run a virtual enviroment/make one
-#	+ mkvirtualenv test
+A simple REST api for application for neuroFlow
 
-# Install the following
-#	+ pip install django
-#	+ pip install psycopg2
-#	+ pip install Pillow
-#	+ download and install Postgres
+## How to run it?
+clone the project down
 
-# run the server
-#	+ python manage.py runserver
+run a virtual enviroment/make one
+
+Run this in folder containing the file in cmd:
+```bash
+	mkvirtualenv test
+```
+
+Install the following
+```bash
+	pip install django
+	pip install psycopg2
+	pip install Pillow
+	download and install Postgres online
+```
+
+run the server (has to be in the folder that contains manage.py)
+```bash
+	python manage.py runserver
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[Me? I dont know how and why I need licence](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
