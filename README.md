@@ -1,14 +1,14 @@
 # NeuroFlow_Mood
-clone the project down
+# clone the project down
 
-run a virtual enviroment/make one
-	+ mkvirtualenv test
+# run a virtual enviroment/make one
+#	+ mkvirtualenv test
 
-Install the following
-	+ pip install django
-	+ pip install psycopg2
-	+ pip install Pillow
-	+ download and install Postgres
+# Install the following
+#	+ pip install django
+#	+ pip install psycopg2
+#	+ pip install Pillow
+#	+ download and install Postgres
 
-run the server
-	+ python manage.py runserver
+# run the server
+#	+ python manage.py runserver
