@@ -9,15 +9,15 @@ run a virtual enviroment/make one
 
 Run this in folder containing the file in cmd:
 ```bash
-	mkvirtualenv test
+mkvirtualenv test
 ```
 
 Install the following
 ```bash
-	pip install django
-	pip install psycopg2
-	pip install Pillow
-	download and install Postgres online
+pip install django
+pip install psycopg2
+pip install Pillow
+download and install Postgres online
 ```
 
 run the server (has to be in the folder that contains manage.py)
