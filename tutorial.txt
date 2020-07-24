@@ -1,4 +1,3 @@
-# NeuroFlow_Mood
 clone the project down
 
 run a virtual enviroment/make one
