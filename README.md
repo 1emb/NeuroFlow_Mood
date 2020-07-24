@@ -24,6 +24,8 @@ run the server (has to be in the folder that contains manage.py)
 ```bash
 python manage.py runserver
 ```
+Then go to http://127.0.0.1:8000/ to see the website running (localhost)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
