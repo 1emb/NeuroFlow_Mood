@@ -22,7 +22,7 @@ download and install Postgres online
 
 run the server (has to be in the folder that contains manage.py)
 ```bash
-	python manage.py runserver
+python manage.py runserver
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
