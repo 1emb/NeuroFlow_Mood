@@ -9,7 +9,7 @@ run a virtual enviroment/make one
 
 Run this in folder containing the file in cmd:
 ```bash
-mkvirtualenv test
+mkvirtualenv ve
 ```
 
 Install the following
